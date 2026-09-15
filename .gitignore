@@ -7,9 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependencies
+node_modules/
+dist/
+dist-ssr/
 *.local
 
 # Environment variables
@@ -17,7 +18,7 @@ dist-ssr
 .env.*
 !.env.example
 
-# Amplify outputs
+# Amplify outputs & sandbox
 amplify_outputs.json
 amplifyconfiguration*.json
 
