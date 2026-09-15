@@ -4,6 +4,8 @@
   "description": "Full stack react application with AWS Amplify",
   "main": "index.js",
   "scripts": {
+    "build": "cd notesapp && npm run build",
+    "dev": "cd notesapp && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
