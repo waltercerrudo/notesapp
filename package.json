@@ -1,7 +1,7 @@
 {
   "name": "build-a-full-stack-react-application",
   "version": "1.0.0",
-  "description": "Start session url: https://d-90667f108c.awsapps.com/start\r Region: us-east-1\r Username: amplify-admin\r Pass: 5357-4c9e-9ea9-9bf4a8944dccA",
+  "description": "Full stack react application with AWS Amplify",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
