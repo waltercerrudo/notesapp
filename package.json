@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/waltercerrudo/notesapp/issues"
   },
-  "homepage": "https://github.com/waltercerrudo/notesapp#readme"
+  "homepage": "https://github.com/waltercerrudo/notesapp#readme",
+  "devDependencies": {
+    "@aws-amplify/backend": "^1.25.0",
+    "@aws-amplify/backend-cli": "^1.10.0",
+    "aws-cdk-lib": "^2.268.0",
+    "constructs": "^10.8.1",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.13",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "aws-amplify": "^6.20.0"
+  }
 }

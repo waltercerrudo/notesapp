@@ -32,3 +32,8 @@ amplifyconfiguration*.json
 *.njsproj
 *.sln
 *.sw?
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
