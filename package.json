@@ -26,6 +26,10 @@
     "tsx": "^4.23.13",
     "typescript": "^5.9.3"
   },
+  "optionalDependencies": {
+    "@parcel/watcher-linux-x64-glibc": "^2.6.0",
+    "@esbuild/linux-x64": "^0.28.2"
+  },
   "dependencies": {
     "aws-amplify": "^6.20.0"
   }
